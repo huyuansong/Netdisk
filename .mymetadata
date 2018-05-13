@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="Netdisk"
+  id="myeclipse.1391927662955"
+  context-root="/Netdisk"
+  j2ee-spec="5.0"
+  archive="Netdisk.war">
+  <attributes>
+    <attribute name="webrootdir" value="/WebRoot" />
+  </attributes>
+</project-module>
+
